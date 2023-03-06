@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Fire;
+    src: url('fonts/chp-fire.ttf') format('truetype');
+}
+body {
+    background-image: linear-gradient(to right, rgb(220, 157, 10), rgb(255, 38, 0));
+    text-align: center;
+        
+}
+p {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 4px black;
+    width: 600px;
+    font-family: Fire;
+    font-size: 24px;
+    margin: auto;
+}
+img {
+    border-radius: 50%;
+}
+h1 {
+    font-family: fire;
+    font-size: 48px;
+}
+h2 {
+    font-family: fire;
+    font-size: 48px;
+}
